@@ -1,0 +1,40 @@
+body {
+    background-color: darkgray;
+}
+
+
+#numberContainer {
+    display: flex;
+    text-align: center;
+    margin-left: 800px;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px; 
+    font-size: 2em;
+    margin: 10px;
+    border: 2px solid #000;
+ 
+}
+#result {
+    margin-top: 20px;
+    font-size: 1.5em;
+    margin-left: 900px;
+  
+   
+}
+
+.multi { 
+    margin-left: 20px;
+    margin-top: 50px;
+}
+    
+h1 { text-align: center;}
+
+#multiplicationForm {
+    margin-left: 800px;
+    margin-top: 20px;
+}
